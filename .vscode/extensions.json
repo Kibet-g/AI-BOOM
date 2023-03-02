@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "xabikos.javascriptsnippets",
+        "rodrigovallades.es7-react-js-snippets",
+        "rapidapi.vscode-rapidapi-client",
+        "burkeholland.simple-react-snippets",
+        "esbenp.prettier-vscode",
+        "skyran.js-jsx-snippets"
+    ]
+}
