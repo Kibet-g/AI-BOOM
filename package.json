@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "esbuild": "^0.17.10"
+  },
+  "scripts": {
+    "build": "babel src --extensions .js,.jsx -d lib"
   }
 }

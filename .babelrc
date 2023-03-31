@@ -1,0 +1,16 @@
+{
+    "presets": [
+      "@babel/preset-react"
+    ],
+    "plugins": [
+      // Add any plugins you need here
+    ],
+    "ignore": [
+      // Add any paths you want to ignore here
+    ],
+    "only": [
+      "src",
+      "*.jsx" // Add the .jsx extension here
+    ]
+  }
+  

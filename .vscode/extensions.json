@@ -5,6 +5,7 @@
         "rapidapi.vscode-rapidapi-client",
         "burkeholland.simple-react-snippets",
         "esbenp.prettier-vscode",
-        "skyran.js-jsx-snippets"
+        "skyran.js-jsx-snippets",
+        "tabnine.tabnine-vscode"
     ]
 }

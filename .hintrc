@@ -10,5 +10,16 @@
         "image-alt": "off"
       }
     ]
-  }
+  },
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not and_chr <= 111",
+    "not chrome <= 111",
+    "not edge <= 111",
+    "not ios_saf <= 16.4",
+    "not opera <= 95",
+    "not safari <= 16.4",
+    "not samsung <= 20"
+  ]
 }
